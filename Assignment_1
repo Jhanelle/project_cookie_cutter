@@ -1,0 +1,42 @@
+
+#JhanelleWilliams 2015-10-27
+#Assignment1
+#This project is essentially a template with directory structures and
+#dcoumentary files for a computational project
+
+mkdir project
+cd project
+touch License.md
+echo "Transportation_of_contaminants" > Readme.md
+
+#The above commands are used to control of the root directory.
+#The project is the root directory for this case.
+#The touch command creates a the blank document License.md
+#The echo command is used to write into a new file which in this case a a Readme format
+
+mkdir data
+mkdir results
+mkdir bin
+
+#The code mkdir makes 3 directories as seen above
+
+cd data
+echo "Raw results from experiment"> Readme.md
+cd ../
+
+#This code craetes a text file in the data directory
+#These also create a Readme for the data directory
+
+cd results
+echo "Graphs tabulated from raw results"> Readme.md
+cd ../
+
+#This code creates a text file the results directory
+#These also create a Readme for the data directory
+
+cd bin
+echo "Summary of the results"> Readme.md
+cd ../
+
+
+#This code creates a text file in the  bin directory
