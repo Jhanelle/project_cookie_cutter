@@ -9,5 +9,6 @@ This is to create subdirectories: data, manuscript, bin and results
 
 Dependenices:
 1. Bash
-2.
+2. Clear Directories
+
 
