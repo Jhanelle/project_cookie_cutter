@@ -7,7 +7,7 @@ computational projects
 
 This is to create subdirectories: data, manuscript, bin and results
 
-Dependices:
+Dependenices:
 1. Bash
-
+2.
 
