@@ -9,5 +9,6 @@ This is to create subdirectories: data, manuscript, bin and results
 
 Dependenices:
 1. Bash
-2. This is going to clash! 
+2. Clear Directories ø
+
 
